@@ -1,2 +1,2 @@
 #!/bin/bash
-This script prints the absolute path name of the current working directory.
+pwd : prints the absolute path name of the current working directory.\nls : display the contents list of your current directory.
